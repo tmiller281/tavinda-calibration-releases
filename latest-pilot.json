@@ -1,0 +1,8 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/tmiller281/tavinda-calibration-releases/releases/download/v0.2.0/TavindaCalibration-Setup-0.2.0.exe",
+  "sha256": "30e7951accbfd49c5e10db0abd9e0a778e82383778e173f40f700301bc75445b",
+  "notes": "First installable version. Fixed: installs as a Windows app with a desktop icon, tray icon and background service; updates itself; Settings - Logs and Windows Event Viewer; bench letter in every serial (TC-2026-A-00001); daily backup, Download a backup and Restore. Not fixed yet (known): not tried with the real receipt printer or the real Pill and splitter; printing runs from the background service, so a printer added only for one Windows user may not be found (use Print a test receipt to check); no upload to the platform yet (use the export).",
+  "min_version": "0.0.0",
+  "signature": "Hbz5SXAIsOfjelP29uJfoK0uOwFH2wWJXKLf4jfdkhewO0UL/H5qdPanqTgIh4EENFEMo/UCpR7cVTZMxECADA=="
+}
